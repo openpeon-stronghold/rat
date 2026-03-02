@@ -6,6 +6,8 @@
 
 The Rat sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Rat in Stronghold Crusader.
 
+The Rat is a cowardly, scheming villain who compensates for his lack of courage with elaborate plots and constant whining. He flatters when he needs allies, abandons them the moment things go wrong, and flees at the first sign of real danger — all while insisting loudly that everything is proceeding exactly according to plan.
+
 ## Install
 
 ```bash
