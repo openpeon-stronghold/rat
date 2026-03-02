@@ -1,33 +1,37 @@
-# stronghold-rat
+<p align="center">
+  <img src="https://raw.githubusercontent.com/openpeon-stronghold/rat/main/icon.png" width="128" alt="The Rat">
+</p>
+
+<h1 align="center">The Rat</h1>
 
 The Rat sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Rat in Stronghold Crusader.
 
 ## Install
 
 ```bash
-peon packs install stronghold-rat
+peon packs install rat
 ```
 
 ## Sounds
 
 | Category | File | Label |
 |---|---|---|
-| `session.start` | rt_add_player.wav | Gasping |
-| `task.acknowledge` | rt_taunt_03.wav | Plans have been made |
-| `task.acknowledge` | rt_taunt_05.wav | Forces of De Puce |
-| `task.complete` | rt_vict_01.wav | Ratty wins again |
-| `task.complete` | rt_vict_02.wav | Plans worked perfectly |
-| `task.complete` | rt_vict_04.wav | Glorious army triumphs |
-| `task.error` | rt_anger_01.wav | Troops didn't follow the plan |
-| `task.error` | rt_anger_03.wav | Surrounded by idiots |
-| `task.error` | rt_anger_04.wav | World has gone crazier |
-| `input.required` | rt_plead_01.wav | Don't hurt me |
-| `input.required` | rt_plead_04.wav | No need to panic, Ratty |
-| `resource.limit` | rt_anger_02.wav | Oh bother, lost again |
-| `resource.limit` | rt_plead_02.wav | It wasn't me |
-| `user.spam` | rt_taunt_01.wav | Impudent upstart |
-| `user.spam` | rt_taunt_07.wav | No use grovelling now |
-| `user.spam` | rt_kick_player.wav | Screaming |
+| `session.start` | rt_add_player.mp3 | Gasping |
+| `task.acknowledge` | rt_taunt_03.mp3 | Plans have been made |
+| `task.acknowledge` | rt_taunt_05.mp3 | Forces of De Puce |
+| `task.complete` | rt_vict_01.mp3 | Ratty wins again |
+| `task.complete` | rt_vict_02.mp3 | Plans worked perfectly |
+| `task.complete` | rt_vict_04.mp3 | Glorious army triumphs |
+| `task.error` | rt_anger_01.mp3 | Troops didn't follow the plan |
+| `task.error` | rt_anger_03.mp3 | Surrounded by idiots |
+| `task.error` | rt_anger_04.mp3 | World has gone crazier |
+| `input.required` | rt_plead_01.mp3 | Don't hurt me |
+| `input.required` | rt_plead_04.mp3 | No need to panic, Ratty |
+| `resource.limit` | rt_anger_02.mp3 | Oh bother, lost again |
+| `resource.limit` | rt_plead_02.mp3 | It wasn't me |
+| `user.spam` | rt_taunt_01.mp3 | Impudent upstart |
+| `user.spam` | rt_taunt_07.mp3 | No use grovelling now |
+| `user.spam` | rt_kick_player.mp3 | Screaming |
 
 ## Extras
 
@@ -35,12 +39,12 @@ The `sounds/extras/` folder contains all remaining voice lines from The Rat that
 
 | File | Type |
 |---|---|
-| rt_plead_03.wav | plead |
-| rt_taunt_02.wav | taunt |
-| rt_taunt_04.wav | taunt |
-| rt_taunt_06.wav | taunt |
-| rt_taunt_08.wav | taunt |
-| rt_vict_03.wav | victory |
+| rt_plead_03.mp3 | plead |
+| rt_taunt_02.mp3 | taunt |
+| rt_taunt_04.mp3 | taunt |
+| rt_taunt_06.mp3 | taunt |
+| rt_taunt_08.mp3 | taunt |
+| rt_vict_03.mp3 | victory |
 
 ## Generic speeches
 
